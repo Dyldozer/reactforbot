@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactforbot/static/css/main.035ab4d7.css",
+    "main.js": "/reactforbot/static/js/main.983d6e04.js",
+    "index.html": "/reactforbot/index.html",
+    "main.035ab4d7.css.map": "/reactforbot/static/css/main.035ab4d7.css.map",
+    "main.983d6e04.js.map": "/reactforbot/static/js/main.983d6e04.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.035ab4d7.css",
+    "static/js/main.983d6e04.js"
+  ]
+}
